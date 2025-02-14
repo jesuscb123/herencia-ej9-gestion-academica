@@ -21,5 +21,5 @@ Clases a implementar:
 8. Propiedades específicas: departamento (String), aniosExperiencia (Int).
    
 9. Implementa el método mostrarRol() y añade un método mostrarExperiencia() para imprimir los años de experiencia.
-10. 
+
 Objetivo: Familiarizarse con la herencia y cómo las clases derivadas pueden tener propiedades y métodos adicionales, así como comportamientos específicos.
